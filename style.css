@@ -1,0 +1,24 @@
+body{
+    overflow:hidden;
+}
+.background{
+    background-color :#7cd1df!important;
+    padding-bottom: 20rem;
+}
+.modals{
+    background-color: rgba(54, 54, 122, 0.5) !important;
+    margin: 5rem !important;
+}
+.btn{
+    margin-left: 8rem;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+    background-color: #0d6efd !important;
+}
+input{
+    width: 15em !important;
+    margin-top: 5px !important;
+}
+select ,option{
+   font-size: 15px !important;
+}
